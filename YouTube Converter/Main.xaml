@@ -23,7 +23,7 @@
         <TextBox x:Name="TxtName" HorizontalAlignment="Left" Height="27" Margin="301,226,0,0" TextWrapping="Wrap" Text="Output Name Here" VerticalAlignment="Top" Width="328" Foreground="#FFBEBEBE"/>
         <Label Content="Output Path:" HorizontalAlignment="Left" Margin="212,274,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="TxtOutPath" HorizontalAlignment="Left" Height="26" Margin="301,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="328"/>
-        <CheckBox x:Name="CBoxCropOutput" Content="Crop Output" HorizontalAlignment="Left" Height="20" Margin="539,314,0,0" VerticalAlignment="Top" Width="90"/>
+        <CheckBox x:Name="CBoxCropOutput" Content="Crop Audio" HorizontalAlignment="Left" Height="20" Margin="539,314,0,0" VerticalAlignment="Top" Width="90"/>
         <Label x:Name="LblStart" Content="Start Time:" HorizontalAlignment="Left" Margin="212,343,0,0" VerticalAlignment="Top" Opacity="0.2"/>
         <TextBox x:Name="TxtStart" HorizontalAlignment="Left" Height="26" Margin="283,343,0,0" TextWrapping="Wrap" Text="00:00:00.00" VerticalAlignment="Top" Width="120" Opacity="0.2" Focusable="False"/>
         <Label x:Name="LblFinish" Content="Finish Time:" HorizontalAlignment="Left" Margin="432,343,0,0" VerticalAlignment="Top" Opacity="0.2"/>

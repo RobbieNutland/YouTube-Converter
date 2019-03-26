@@ -1,0 +1,24 @@
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\Resources\FFmpeg\ffmpeg.exe
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\Resources\FFmpeg\ffplay.exe
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\Resources\FFmpeg\ffprobe.exe
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\Resources\YouTube-DL\youtube-dl.exe
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\Resources\Audio.bat
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\Resources\Video.bat
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\Resources\YTC-Log.txt
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\YouTube Converter.exe.config
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\YouTube Converter.exe
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\YouTube Converter.pdb
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\bin\Release\YouTube Converter.xml
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTube Converter.vbprojResolveAssemblyReference.cache
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\Main.g.vb
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\Application.g.vb
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTube Converter_MarkupCompile.cache
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTube Converter_MarkupCompile.lref
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\Main.baml
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTube Converter.g.resources
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTubeConverter.Resources.resources
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTube Converter.vbproj.GenerateResource.Cache
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTube Converter.vbproj.CoreCompileInputs.cache
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTube Converter.exe
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTube Converter.xml
+C:\Users\McGee\source\repos\YouTube Converter\YouTube Converter\obj\Release\YouTube Converter.pdb
